@@ -1,0 +1,21 @@
+elapsed,label,responseCode,responseMessage,success,bytes,URL
+525,GET - Interest,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/interest?balance=1
+8,GET - Discount,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/discount?newcus=false&loyal=false&coop=false
+10,GET - Interest,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/interest?balance=10
+8,GET - Discount,200,OK,true,155,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/discount?newcus=false&loyal=true&coop=false
+8,GET - Interest,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/interest?balance=50
+6,GET - Discount,200,OK,true,155,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/discount?newcus=false&loyal=false&coop=true
+7,GET - Interest,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/interest?balance=100
+6,GET - Discount,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/discount?newcus=true&loyal=true&coop=false
+8,GET - Interest,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/interest?balance=1200
+6,GET - Discount,200,OK,true,155,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/discount?newcus=false&loyal=true&coop=true
+8,GET - Interest,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/interest?balance=100000
+7,GET - Discount,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/discount?newcus=true&loyal=true&coop=true
+8,GET - Interest,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/interest?balance=1
+6,GET - Discount,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/discount?newcus=false&loyal=false&coop=false
+7,GET - Interest,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/interest?balance=10
+7,GET - Discount,200,OK,true,155,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/discount?newcus=false&loyal=true&coop=false
+7,GET - Interest,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/interest?balance=50
+6,GET - Discount,200,OK,true,155,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/discount?newcus=false&loyal=false&coop=true
+9,GET - Interest,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/interest?balance=100
+8,GET - Discount,200,OK,true,154,http://localhost:3000/cphbusiness.test.sp5.systemtesting/api/discount?newcus=true&loyal=true&coop=false
